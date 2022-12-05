@@ -1,0 +1,19 @@
+{
+  "name": "tchatgpt",
+  "version": "1.0.0",
+  "description": "ChatGPT Wrapper",
+  "main": "dist/index.js",
+  "repository": "https://github.com/SpecialAgency-Chat/TChatGPT",
+  "author": "waki285 <suzuneu@suzuneu.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.27.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "@types/uuid": "^9.0.0",
+    "typescript": "^5.0.0-dev.20221204"
+  }
+}

@@ -11,7 +11,7 @@ This is not an official OpenAI product. This is a personal project and is not af
 
 # Setup
 ## Install
-`pip3 install revChatGPT --upgrade`
+`npm install tchatgpt`
 ## Get your session token
 Go to https://chat.openai.com/chat and log in or sign up
 1. Open console with `F12`
