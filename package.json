@@ -15,5 +15,9 @@
     "@types/node": "^18.11.10",
     "@types/uuid": "^9.0.0",
     "typescript": "^5.0.0-dev.20221204"
-  }
+  },
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ]
 }
